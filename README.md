@@ -5,4 +5,4 @@ npm install
 npm start
 ```
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
+Head over to https://lighthearted-semolina-ea01cf.netlify.app/ to view this project
